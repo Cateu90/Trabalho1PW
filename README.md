@@ -1,1 +1,1 @@
-# Trabalho1PW
+O trabalho esta no arquivo estoque.py
